@@ -4,3 +4,14 @@ h1{
     text-align-last: center;
     color: blue;
 }
+body{background-image: url(../app/imagenes/grupal.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+        overflow: scroll;
+        min-height: 100vh;
+        margin: 10%;
+}
+div.formulario{margin: 50%;}
+dil.label-form {
+    margin-top: 20%;
+}
